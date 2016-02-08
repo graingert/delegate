@@ -26,5 +26,6 @@
   "scripts": {
     "build": "browserify src/delegate.js -s delegate -o dist/delegate.js",
     "test": "karma start --single-run"
-  }
+  },
+  "license": "MIT"
 }
